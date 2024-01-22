@@ -44,6 +44,7 @@ The number guessing game generates a random integer between 1 and 100 using Pyth
 **Metrics**
 
 **CCD-Clean Code Development**
++[CCD](https://github.com/astaade/pet_project/blob/main/Clean%20Code%20Development/Clean%20Code%20Development%20(CCD)%20cheat%20sheet.pdf)
 
 **Build Management**
 
