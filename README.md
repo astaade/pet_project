@@ -35,6 +35,8 @@ The number guessing game generates a random integer between 1 and 100 using Pyth
 + [USE CASE DIAGRAM](https://github.com/astaade/pet_project/blob/main/UML/USE%20CASE%20DIAGRAM.png)
 
 **PROJECT REQUIREMENTS**
+ + [DASHBORD IN TRELLO.png](https://github.com/astaade/pet_project/blob/main/PROJECT%20REQUIREMENTS/DASHBORD%20IN%20TRELLO.png)
+ + [PIE CHART IN JIRA.png]()
 
 
 **Analysis**
