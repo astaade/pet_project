@@ -41,7 +41,7 @@ The number guessing game generates a random integer between 1 and 100 using Pyth
 
 **DDD-Domain Driven Design**
  + [Domain Mapping]
- + [Core Concepts Chart](https://github.com/astaade/pet_project/blob/main/core%20concepts%20chart.drawio/CORE%20CONCEPT%20CHART.png)
+ + [Core Concepts Chart](https://github.com/astaade/pet_project/blob/main/DOMAIN%20DRIVEN%20DESIGN/CORE%20CONCEPT%20CHART.png)
 
 **Metrics**
 
