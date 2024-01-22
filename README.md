@@ -40,6 +40,8 @@ The number guessing game generates a random integer between 1 and 100 using Pyth
 **Analysis**
 
 **DDD-Domain Driven Design**
+ +Domain Mapping
+ +Core Concepts Chart
 
 **Metrics**
 
