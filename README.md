@@ -12,3 +12,32 @@
 >10. IDE-Integrated Development Environment
 >11. Functional Programming
 >+ GIT COMMIT HISTORY
+
+
+
+
+**About Project and Branches**
+
+**UML DIAGRAMS**
+
+**PROJECT REQUIREMENTS**
+
+
+**Analysis**
+
+**DDD-Domain Driven Design**
+
+**Metrics**
+
+**CCD-Clean Code Development**
+
+**Build Management**
+
+**Unit Tests**
+
+**IDE-Integrated Development Environment**
+
+**Functional Programming**
+
+
+**GIT COMMIT HISTORY**
