@@ -40,6 +40,12 @@ The number guessing game generates a random integer between 1 and 100 using Pyth
 **Analysis**
 
 **DDD-Domain Driven Design**
+To expand the breadth of the game for domain modeling, this project  invented some additional capabilities:
+-Multiplayer Mode
+-Platform High Score Tracking
+-Power-Ups and Bonuses
+-Multiple Difficulty Settings
+-Visual Representations And Animations
  + [Domain Mapping](https://github.com/astaade/pet_project/blob/main/DOMAIN%20DRIVEN%20DESIGN/DOMAIN%20MAPPING.png)
    
  + [Core Concepts Chart](https://github.com/astaade/pet_project/blob/main/DOMAIN%20DRIVEN%20DESIGN/CORE%20CONCEPT%20CHART.png)
