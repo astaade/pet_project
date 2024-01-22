@@ -32,6 +32,7 @@ The number guessing game generates a random integer between 1 and 100 using Pyth
 **UML DIAGRAMS**
 + [ACTIVITY UML DIAGRAM](https://github.com/astaade/pet_project/blob/main/UML/ACTIVITY%20DIAGRAM.png)
 + [CLASS UML DIAGRAM](https://github.com/astaade/pet_project/blob/main/UML/CLASS%20DIAGRAM.png)
++ [USE CASE DIAGRAM](https://github.com/astaade/pet_project/blob/main/UML/USE%20CASE%20DIAGRAM.png)
 
 **PROJECT REQUIREMENTS**
 
