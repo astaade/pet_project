@@ -55,6 +55,12 @@ To expand the breadth of the game for domain modeling, this project  invented s
    >> The core concepts chart shows the key classes that will implement the logical components of the system design, supporting the domain model. Representing software artifacts visually in standardized modeling notations aids in communication, creativity, and setting direction before physical construction.
 
 **Metrics**
+To track code quality, this project integrated Sonarcloud which provides a detailed quality report including metrics like:
+- Unit test coverage
+-ode duplication
+-Technical debt
+-Coding standards
+-Potential bugs
 
 **CCD-Clean Code Development**
 +[CCD](https://github.com/astaade/pet_project/blob/main/Clean%20Code%20Development/Clean%20Code%20Development%20(CCD)%20cheat%20sheet.pdf)
