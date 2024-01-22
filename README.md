@@ -50,6 +50,7 @@ To expand the breadth of the game for domain modeling, this project  invented s
    >>The domain mapping diagram depicts the conceptual domains relevant to the guessing game application and the relationships between them. It was created in this project using the draw.io tool to visualize and expand upon the core gameplay functionality during the analysis phase.
    
  + [Core Concepts Chart](https://github.com/astaade/pet_project/blob/main/DOMAIN%20DRIVEN%20DESIGN/CORE%20CONCEPT%20CHART.png)
+   >> The core concepts chart shows the key classes that will implement the logical components of the system design, supporting the domain model. Representing software artifacts visually in standardized modeling notations aids in communication, creativity, and setting direction before physical construction.
 
 **Metrics**
 
