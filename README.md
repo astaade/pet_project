@@ -61,6 +61,7 @@ To track code quality, this project integrated Sonarcloud which provides a detai
 -Technical debt
 -Coding standards
 -Potential bugs
+[SONAR CLOUD METRICS.png](https://github.com/astaade/pet_project/blob/main/metrics/SONAR%20CLOUD%20METRICS.png)
 
 **CCD-Clean Code Development**
 +[CCD](https://github.com/astaade/pet_project/blob/main/Clean%20Code%20Development/Clean%20Code%20Development%20(CCD)%20cheat%20sheet.pdf)
