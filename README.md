@@ -47,6 +47,7 @@ To expand the breadth of the game for domain modeling, this project  invented s
 -Multiple Difficulty Settings
 -Visual Representations And Animations
  + [Domain Mapping](https://github.com/astaade/pet_project/blob/main/DOMAIN%20DRIVEN%20DESIGN/DOMAIN%20MAPPING.png)
+   >>The domain mapping diagram depicts the conceptual domains relevant to the guessing game application and the relationships between them. It was created in this project using the draw.io tool to visualize and expand upon the core gameplay functionality during the analysis phase.
    
  + [Core Concepts Chart](https://github.com/astaade/pet_project/blob/main/DOMAIN%20DRIVEN%20DESIGN/CORE%20CONCEPT%20CHART.png)
 
