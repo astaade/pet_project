@@ -52,3 +52,4 @@ The number guessing game generates a random integer between 1 and 100 using Pyth
 
 
 **GIT COMMIT HISTORY**
+[HISTORY](https://github.com/astaade/pet_project/commits/main/README.md)
