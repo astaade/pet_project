@@ -124,7 +124,7 @@ To track code quality, this project integrated Sonarcloud which provides a detai
      --ctrl+f(to find in the script)
 **Functional Programming**
 
->>CLEAN CODE()
+>>CLEAN CODE(https://github.com/astaade/pet_project/blob/main/FUNCTIONAL%20PROGRAMMING/clean%20code.py)
 >>BUILD.GRADLE(https://github.com/astaade/pet_project/blob/main/FUNCTIONAL%20PROGRAMMING/build.gradle)
 >>GAME()
 
