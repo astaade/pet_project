@@ -30,6 +30,8 @@ The number guessing game generates a random integer between 1 and 100 using Pyth
 
 
 **UML DIAGRAMS**
+
+
   I used the draw.io for generating/draw the UML diagrams.These diagrams helps to concept different aspects of the system before any code.They can also serve as a useful documentation for understanding and maintaining the application.
 + [ACTIVITY UML DIAGRAM](https://github.com/astaade/pet_project/blob/main/UML/ACTIVITY%20DIAGRAM.png)
   >>This models the flow of actions in the game
