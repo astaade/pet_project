@@ -87,6 +87,19 @@ To track code quality, this project integrated Sonarcloud which provides a detai
 
 **IDE-Integrated Development Environment**
 
+  >>Working with python in  Visual Studio Code, using microsoft Python extensions,is simple,fun and productive.
+
+  >>It leverages all of VS Code's power to provide auto complete and intellisense ,linting,debugging,and unit testing,along with the ability to easily switch between Python environments ,including virtual and conda environments.
+
+  >>favorite keys
+
+     --double shift (search everywhere)
+     --cntrl+/ (comment/uncomment line)
+     --f5 (debug)
+     --ctrl+H(replace)
+     --shift+alt+arrow up/down(to copy lines up/down)
+     --ctrl+z/ctrl+y(to undo/redo)
+     --ctrl+f(to find in the script)
 **Functional Programming**
 
 
