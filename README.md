@@ -124,6 +124,11 @@ To track code quality, this project integrated Sonarcloud which provides a detai
      --ctrl+f(to find in the script)
 **Functional Programming**
 
+>>CLEAN CODE()
+>>BUILD.GRADLE()
+>>GAME()
+
+
 
 **GIT COMMIT HISTORY**
 [HISTORY](https://github.com/astaade/pet_project/commits/main/README.md)
