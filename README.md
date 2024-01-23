@@ -86,7 +86,26 @@ To track code quality, this project integrated Sonarcloud which provides a detai
 
 **Build Management**
 
+ >>To automate build processes, below are the configurations that are needed to be considered, 
+  
+  >>Installs Dependencies
+
+  >>Runs Unit Test Suite
+
+  >>Builds Documentation
+
+  >>Deploys To Staging Server
+
 **Unit Tests**
+
+>>This allows to refactor with confidence knowing that this project has tests to catch potential regressions. Tests are executed during CICD pipelines.
+
+--Debugging
+
+>>Git Integration
+>>Interactive Python Console
+>>Unit Test Runner
+>>Documentation Support
 
 **IDE-Integrated Development Environment**
 
