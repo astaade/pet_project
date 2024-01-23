@@ -47,7 +47,7 @@ The number guessing game generates a random integer between 1 and 100 using Pyth
 
 **Analysis**
 
- >>A)ANALYSIS CHECKLIST[LIST]()
+ >>A)ANALYSIS CHECKLIST[LIST](https://github.com/astaade/pet_project/blob/main/ANALYSIS/ANALYSIS%20CHECKLIST.pdf)
 > >B)ANALYSIS EXPLANATION[EXP]()
 
 **DDD-Domain Driven Design**
