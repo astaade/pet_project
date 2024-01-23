@@ -47,6 +47,9 @@ The number guessing game generates a random integer between 1 and 100 using Pyth
 
 **Analysis**
 
+ >>A)ANALYSIS CHECKLIST[LIST]()
+> >B)ANALYSIS EXPLANATION[EXP]()
+
 **DDD-Domain Driven Design**
 
 To expand the breadth of the game for domain modeling, this project  invented some additional capabilities:
