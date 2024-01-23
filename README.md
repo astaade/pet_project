@@ -124,13 +124,13 @@ To track code quality, this project integrated Sonarcloud which provides a detai
      --ctrl+f(to find in the script)
 **Functional Programming**
 
->>CLEAN CODE[](https://github.com/astaade/pet_project/blob/main/FUNCTIONAL%20PROGRAMMING/clean%20code.py)
+CLEAN CODE[CLEAN CODE](https://github.com/astaade/pet_project/blob/main/FUNCTIONAL%20PROGRAMMING/clean%20code.py)
 
->>BUILD.GRADLE[](https://github.com/astaade/pet_project/blob/main/FUNCTIONAL%20PROGRAMMING/build.gradle)
+>>BUILD.GRADLE[BUILD GRADLE](https://github.com/astaade/pet_project/blob/main/FUNCTIONAL%20PROGRAMMING/build.gradle)
 
->>GAME[](https://github.com/astaade/pet_project/blob/main/FUNCTIONAL%20PROGRAMMING/game.py)
+>>GAME[GAME](https://github.com/astaade/pet_project/blob/main/FUNCTIONAL%20PROGRAMMING/game.py)
 >>
->>TRELLO[](https://github.com/astaade/pet_project/blob/main/FUNCTIONAL%20PROGRAMMING/trello.csv)
+>>TRELLO[TRELLO](https://github.com/astaade/pet_project/blob/main/FUNCTIONAL%20PROGRAMMING/trello.csv)
 
 
 
