@@ -73,7 +73,7 @@ To track code quality, this project integrated Sonarcloud which provides a detai
 
 **CCD-Clean Code Development**
 
- 1) Why it is clean code
+ 1) Why it is clean code[CCD Pdf](https://github.com/astaade/pet_project/blob/main/Clean%20Code%20Development/ccd%20pdf..pdf)
 
  2) Cheat sheet[CCD](https://github.com/astaade/pet_project/blob/main/Clean%20Code%20Development/Clean%20Code%20Development%20(CCD)%20cheat%20sheet.pdf)
 
