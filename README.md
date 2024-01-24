@@ -95,7 +95,8 @@ To track code quality, this project integrated Sonarcloud which provides a detai
   >>Builds Documentation
 
   >>Deploys To Staging Server
-
+>  ![image](https://github.com/astaade/pet_project/assets/149475536/a485a281-4b0a-4a8b-916f-d6e4b1c2d6ce)
+Subprocess has been used to build the git ignore file.
 **Unit Tests**
 
 >>This allows to refactor with confidence knowing that this project has tests to catch potential regressions. Tests are executed during CICD pipelines.
