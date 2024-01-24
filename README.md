@@ -17,16 +17,16 @@
 
 
 **About Project**
->> Number Guessing Game - Pet Coding Project Introduction
+>> Quiz Game - Pet Coding Project Introduction
 
-   The Pet Coding Project presents a simple number guessing game designed to reinforce basic programming skills while incorporating modern programming best 
+   The Pet Coding Project presents a simple number quiz game designed to reinforce basic programming skills while incorporating modern programming best 
    practices. This project aims to restore and enhance proficiency in fundamental language concepts such as variables, data types, conditional logic, loops, 
    functions, and classes. By implementing a straightforward game function, the researcher can focus on the right technology without getting overwhelmed by 
    complexity. The game is coded in Python, taking advantage of its simple syntax and extensive libraries.
 
 >> Game Overview
 
-The number guessing game generates a random integer between 1 and 100 using Python's built-in random module. Players attempt to guess the generated number, and validation ensures that only valid integers are accepted. The game allows multiple guesses within loops, and functions divide the execution into logical parts, such as initializing the game, asking for inputs, checking assumptions, and computing results.
+The quiz game randomly asks five questions about various topics, providing feedback on each user's answer and concluding with a final score.
 
 
 **UML DIAGRAMS**
@@ -60,7 +60,7 @@ To expand the breadth of the game for domain modeling, this project  invented s
 -Multiple Difficulty Settings
 -Visual Representations And Animations
  + [Domain Mapping](https://github.com/astaade/pet_project/blob/main/DOMAIN%20DRIVEN%20DESIGN/DOMAIN%20MAPPING.png)
-   >>The domain mapping diagram depicts the conceptual domains relevant to the guessing game application and the relationships between them. It was created in this project using the draw.io tool to visualize and expand upon the core gameplay functionality during the analysis phase.
+   >>The domain mapping diagram depicts the conceptual domains relevant to the quiz game application and the relationships between them. It was created in this project using the draw.io tool to visualize and expand upon the core gameplay functionality during the analysis phase.
    
  + [Core Concepts Chart](https://github.com/astaade/pet_project/blob/main/DOMAIN%20DRIVEN%20DESIGN/CORE%20CONCEPT%20CHART.png)
    >> The core concepts chart shows the key classes that will implement the logical components of the system design, supporting the domain model. Representing software artifacts visually in standardized modeling notations aids in communication, creativity, and setting direction before physical construction.
