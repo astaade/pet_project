@@ -48,6 +48,8 @@ The quiz game randomly asks five questions about various topics, providing feedb
 
 > >B)ANALYSIS EXPLANATION[EXP](https://github.com/astaade/pet_project/blob/main/ANALYSIS/ANALYSIS%20pdf.pdf)
 **
+
+
 **DDD-Domain Driven Design**
 
 To expand the breadth of the game for domain modeling, this project  invented some additional capabilities:
@@ -56,6 +58,8 @@ To expand the breadth of the game for domain modeling, this project  invented s
 -Power-Ups and Bonuses
 -Multiple Difficulty Settings
 -Visual Representations And Animations**
+
+
  + [Domain Mapping](https://github.com/astaade/pet_project/blob/main/DOMAIN%20DRIVEN%20DESIGN/DOMAIN%20MAPPING.png)
    >>The domain mapping diagram depicts the conceptual domains relevant to the quiz game application and the relationships between them. It was created in this project using the draw.io tool to visualize and expand upon the core gameplay functionality during the analysis phase.
    
@@ -126,7 +130,9 @@ Subprocess has been used to build the git ignore file.
      --shift+alt+arrow up/down(to copy lines up/down)
      --ctrl+z/ctrl+y(to undo/redo)
      --ctrl+f(to find in the script)
+     
 **Functional Programming**
+
 
 CLEAN CODE[CLEAN CODE](https://github.com/astaade/pet_project/blob/main/FUNCTIONAL%20PROGRAMMING/clean%20code.py)
 
