@@ -31,8 +31,10 @@ The quiz game randomly asks five questions about various topics, providing feedb
   I used the draw.io for generating/draw the UML diagrams.These diagrams helps to concept different aspects of the system before any code.They can also serve as a useful documentation for understanding and maintaining the application.
 **[ACTIVITY UML DIAGRAM]**(https://github.com/astaade/pet_project/blob/main/UML/ACTIVITY%20DIAGRAM.png)
   >>This models the flow of actions in the game
+>  
 **[CLASS UML DIAGRAM]**(https://github.com/astaade/pet_project/blob/main/UML/CLASS%20DIAGRAM.png)
   >>Shows key classes and relationships.
+>  
 **[USE CASE DIAGRAM]**(https://github.com/astaade/pet_project/blob/main/UML/USE%20CASE%20DIAGRAM.png)
   >>This depits the hardware and connections.
 
@@ -113,12 +115,15 @@ Subprocess has been used to build the git ignore file.
 
 >>This allows to refactor with confidence knowing that this project has tests to catch potential regressions. Tests are executed during CICD pipelines.
 
---Debugging
+**Debugging**
 
->>**Git Integration**
->>**Interactive Python Console**
->>**Unit Test Runner**
->>**Documentation Support**
+**Git Integration**
+
+**Interactive Python Console**
+
+**Unit Test Runner**
+
+**Documentation Support**
 
 **IDE-Integrated Development Environment**
 
@@ -143,7 +148,7 @@ Subprocess has been used to build the git ignore file.
 [CLEAN CODE](https://github.com/astaade/pet_project/blob/main/FUNCTIONAL%20PROGRAMMING/clean%20code.py)
 
 **BUILD.GRADLE**
-BUILD GRADLE](https://github.com/astaade/pet_project/blob/main/FUNCTIONAL%20PROGRAMMING/build.gradle)
+[BUILD GRADLE](https://github.com/astaade/pet_project/blob/main/FUNCTIONAL%20PROGRAMMING/build.gradle)
 
 **GAME**
 [GAME](https://github.com/astaade/pet_project/blob/main/FUNCTIONAL%20PROGRAMMING/game.py)
