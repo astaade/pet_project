@@ -11,7 +11,7 @@
 >9. Unit Tests
 >10. IDE-Integrated Development Environment
 >11. Functional Programming
->+ GIT COMMIT HISTORY
+>12. GIT COMMIT HISTORY
 
 
 
@@ -29,6 +29,7 @@ The quiz game randomly asks five questions about various topics, providing feedb
 
 
   I used the draw.io for generating/draw the UML diagrams.These diagrams helps to concept different aspects of the system before any code.They can also serve as a useful documentation for understanding and maintaining the application.
+  
 **[ACTIVITY UML DIAGRAM]**(https://github.com/astaade/pet_project/blob/main/UML/ACTIVITY%20DIAGRAM.png)
   >>This models the flow of actions in the game
 >  
@@ -76,14 +77,19 @@ To expand the breadth of the game for domain modeling, this project  invented s
 
 To track code quality, this project integrated Sonarcloud which provides a detailed quality report including metrics like:
 
-**- Unit test coverage
--ode duplication
--Technical debt
--Coding standards
--Potential bugs**
+**- Unit test coverage**
+  
+**-ode duplication**
+
+**-Technical debt**
+
+**-Coding standards**
+
+**-Potential bugs**
 
 **SONAR CLOUD METRICS[IMAGE]**
 (https://github.com/astaade/pet_project/blob/main/metrics/SONAR%20CLOUD%20METRICS.png)
+
 **SONAR CLOUD REPORT[REPORT]**
 (https://github.com/astaade/pet_project/blob/main/METRICS/SONAR%20Cloud%20Report.pdf)
 
