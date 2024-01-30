@@ -88,7 +88,7 @@ To track code quality, this project integrated Sonarcloud which provides a detai
 
 **Build Management**
 
-** >>To automate build processes, below are the configurations that are needed to be considered, 
+>>To automate build processes, below are the configurations that are needed to be considered, 
   
   >>Installs Dependencies
 
@@ -97,7 +97,7 @@ To track code quality, this project integrated Sonarcloud which provides a detai
   >>Builds Documentation
 
   >>Deploys To Staging Server
->  **
+>  
 >  >
 >  >![image](https://github.com/astaade/pet_project/assets/149475536/a485a281-4b0a-4a8b-916f-d6e4b1c2d6ce)
 >  >
@@ -110,10 +110,10 @@ Subprocess has been used to build the git ignore file.
 
 --Debugging
 
-**>>Git Integration
+>>Git Integration
 >>Interactive Python Console
 >>Unit Test Runner
->>Documentation Support**
+>>Documentation Support
 
 **IDE-Integrated Development Environment**
 
