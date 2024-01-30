@@ -103,13 +103,13 @@ To track code quality, this project integrated Sonarcloud which provides a detai
 
 >>To automate build processes, below are the configurations that are needed to be considered, 
   
-  >>**Installs Dependencies**
+  --**Installs Dependencies**
 
-  >>**Runs Unit Test Suite**
+  --**Runs Unit Test Suite**
 
-  >>**Builds Documentation**
+  --**Builds Documentation**
 
-  >>**Deploys To Staging Server**
+  --**Deploys To Staging Server**
 >  
 >  >
 >  >![image](https://github.com/astaade/pet_project/assets/149475536/a485a281-4b0a-4a8b-916f-d6e4b1c2d6ce)
