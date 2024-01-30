@@ -53,6 +53,7 @@ The quiz game randomly asks five questions about various topics, providing feedb
 **DDD-Domain Driven Design**
 
 To expand the breadth of the game for domain modeling, this project  invented some additional capabilities:
+
 **-Multiplayer Mode
 -Platform High Score Tracking
 -Power-Ups and Bonuses
@@ -69,6 +70,7 @@ To expand the breadth of the game for domain modeling, this project  invented s
 **Metrics**
 
 To track code quality, this project integrated Sonarcloud which provides a detailed quality report including metrics like:
+
 **- Unit test coverage
 -ode duplication
 -Technical debt
@@ -134,13 +136,17 @@ Subprocess has been used to build the git ignore file.
 **Functional Programming**
 
 
-CLEAN CODE[CLEAN CODE](https://github.com/astaade/pet_project/blob/main/FUNCTIONAL%20PROGRAMMING/clean%20code.py)
+CLEAN CODE
+[CLEAN CODE](https://github.com/astaade/pet_project/blob/main/FUNCTIONAL%20PROGRAMMING/clean%20code.py)
 
->>BUILD.GRADLE[BUILD GRADLE](https://github.com/astaade/pet_project/blob/main/FUNCTIONAL%20PROGRAMMING/build.gradle)
+>>BUILD.GRADLE
+>>[BUILD GRADLE](https://github.com/astaade/pet_project/blob/main/FUNCTIONAL%20PROGRAMMING/build.gradle)
 
->>GAME[GAME](https://github.com/astaade/pet_project/blob/main/FUNCTIONAL%20PROGRAMMING/game.py)
+>>GAME
+>>[GAME](https://github.com/astaade/pet_project/blob/main/FUNCTIONAL%20PROGRAMMING/game.py)
 >>
->>TRELLO[TRELLO](https://github.com/astaade/pet_project/blob/main/FUNCTIONAL%20PROGRAMMING/trello.csv)
+>>TRELLO
+>>[TRELLO](https://github.com/astaade/pet_project/blob/main/FUNCTIONAL%20PROGRAMMING/trello.csv)
 
 
 
