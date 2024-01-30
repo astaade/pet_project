@@ -17,11 +17,10 @@
 
 
 **About Project**
->> Quiz Game - Pet Coding Project Introduction
 
-Thе pеt coding projеct was chosеn to bе a Quiz Game that aims to rеstorе basic programming skills whilе applying modеrn programming bеst practicеs. Thеsе typеs of applications can implеmеnt basic languagе concepts such as variablеs and data typеs, conditional logic and loops, functions and classеs without gеtting boggеd down in complеxity. Here, a game is developed using Python language. The functions and its branches are described in this report..
+Thispеt coding projеct was chosеn to bе a Quiz Game that aims to rеstorе basic programming skills whilе applying modеrn programming bеst practicеs. Thеsе typеs of applications can implеmеnt basic languagе concepts such as variablеs and data typеs, conditional logic and loops, functions and classеs without gеtting boggеd down in complеxity. Here, a game is developed using Python language. The functions and its branches are described in this report.
 
->> Game Overview
+**Game Overview**
 
 The quiz game randomly asks five questions about various topics, providing feedback on each user's answer and concluding with a final score.
 
@@ -30,35 +29,39 @@ The quiz game randomly asks five questions about various topics, providing feedb
 
 
   I used the draw.io for generating/draw the UML diagrams.These diagrams helps to concept different aspects of the system before any code.They can also serve as a useful documentation for understanding and maintaining the application.
-+ [ACTIVITY UML DIAGRAM](https://github.com/astaade/pet_project/blob/main/UML/ACTIVITY%20DIAGRAM.png)
+**[ACTIVITY UML DIAGRAM]**(https://github.com/astaade/pet_project/blob/main/UML/ACTIVITY%20DIAGRAM.png)
   >>This models the flow of actions in the game
-+ [CLASS UML DIAGRAM](https://github.com/astaade/pet_project/blob/main/UML/CLASS%20DIAGRAM.png)
+**[CLASS UML DIAGRAM]**(https://github.com/astaade/pet_project/blob/main/UML/CLASS%20DIAGRAM.png)
   >>Shows key classes and relationships.
-+ [USE CASE DIAGRAM](https://github.com/astaade/pet_project/blob/main/UML/USE%20CASE%20DIAGRAM.png)
+**[USE CASE DIAGRAM]**(https://github.com/astaade/pet_project/blob/main/UML/USE%20CASE%20DIAGRAM.png)
   >>This depits the hardware and connections.
 
 **PROJECT REQUIREMENTS**
- + [DASHBORD IN TRELLO.png](https://github.com/astaade/pet_project/blob/main/PROJECT%20REQUIREMENTS/DASHBORD%20IN%20TRELLO.png)
- + [PIE CHART IN JIRA.png](https://github.com/astaade/pet_project/blob/main/PROJECT%20REQUIREMENTS/PIE%20CHART%20IN%20JIRA.png)
+ + **[DASHBORD IN TRELLO.png]**(https://github.com/astaade/pet_project/blob/main/PROJECT%20REQUIREMENTS/DASHBORD%20IN%20TRELLO.png)
+ + **[PIE CHART IN JIRA.png]**(https://github.com/astaade/pet_project/blob/main/PROJECT%20REQUIREMENTS/PIE%20CHART%20IN%20JIRA.png)
 
 
 **Analysis**
 
-** >>A)ANALYSIS CHECKLIST[LIST](https://github.com/astaade/pet_project/blob/main/ANALYSIS/ANALYSIS%20CHECKLIST.pdf)
+**A)ANALYSIS CHECKLIST[LIST]**(https://github.com/astaade/pet_project/blob/main/ANALYSIS/ANALYSIS%20CHECKLIST.pdf)
 
-> >B)ANALYSIS EXPLANATION[EXP](https://github.com/astaade/pet_project/blob/main/ANALYSIS/ANALYSIS%20pdf.pdf)
-**
+**B)ANALYSIS EXPLANATION[EXP]**(https://github.com/astaade/pet_project/blob/main/ANALYSIS/ANALYSIS%20pdf.pdf)
+
 
 
 **DDD-Domain Driven Design**
 
 To expand the breadth of the game for domain modeling, this project  invented some additional capabilities:
 
-**-Multiplayer Mode
--Platform High Score Tracking
--Power-Ups and Bonuses
--Multiple Difficulty Settings
--Visual Representations And Animations**
+**-Multiplayer Mode**
+
+**-Platform High Score Tracking**
+
+**-Power-Ups and Bonuses**
+
+**-Multiple Difficulty Settings**
+
+**-Visual Representations And Animations**
 
 
  + [Domain Mapping](https://github.com/astaade/pet_project/blob/main/DOMAIN%20DRIVEN%20DESIGN/DOMAIN%20MAPPING.png)
@@ -77,10 +80,10 @@ To track code quality, this project integrated Sonarcloud which provides a detai
 -Coding standards
 -Potential bugs**
 
->>[SONAR CLOUD METRICS.png](https://github.com/astaade/pet_project/blob/main/metrics/SONAR%20CLOUD%20METRICS.png)
-
-
->SONAR CLOUD REPORT[REPORT](https://github.com/astaade/pet_project/blob/main/METRICS/SONAR%20Cloud%20Report.pdf)
+**SONAR CLOUD METRICS[IMAGE]**
+(https://github.com/astaade/pet_project/blob/main/metrics/SONAR%20CLOUD%20METRICS.png)
+**SONAR CLOUD REPORT[REPORT]**
+(https://github.com/astaade/pet_project/blob/main/METRICS/SONAR%20Cloud%20Report.pdf)
 
 **CCD-Clean Code Development**
 
@@ -92,13 +95,13 @@ To track code quality, this project integrated Sonarcloud which provides a detai
 
 >>To automate build processes, below are the configurations that are needed to be considered, 
   
-  >>Installs Dependencies
+  >>**Installs Dependencies**
 
-  >>Runs Unit Test Suite
+  >>**Runs Unit Test Suite**
 
-  >>Builds Documentation
+  >>**Builds Documentation**
 
-  >>Deploys To Staging Server
+  >>**Deploys To Staging Server**
 >  
 >  >
 >  >![image](https://github.com/astaade/pet_project/assets/149475536/a485a281-4b0a-4a8b-916f-d6e4b1c2d6ce)
@@ -112,10 +115,10 @@ Subprocess has been used to build the git ignore file.
 
 --Debugging
 
->>Git Integration
->>Interactive Python Console
->>Unit Test Runner
->>Documentation Support
+>>**Git Integration**
+>>**Interactive Python Console**
+>>**Unit Test Runner**
+>>**Documentation Support**
 
 **IDE-Integrated Development Environment**
 
@@ -136,17 +139,17 @@ Subprocess has been used to build the git ignore file.
 **Functional Programming**
 
 
-CLEAN CODE
+**CLEAN CODE**
 [CLEAN CODE](https://github.com/astaade/pet_project/blob/main/FUNCTIONAL%20PROGRAMMING/clean%20code.py)
 
->>BUILD.GRADLE
->>[BUILD GRADLE](https://github.com/astaade/pet_project/blob/main/FUNCTIONAL%20PROGRAMMING/build.gradle)
+**BUILD.GRADLE**
+BUILD GRADLE](https://github.com/astaade/pet_project/blob/main/FUNCTIONAL%20PROGRAMMING/build.gradle)
 
->>GAME
->>[GAME](https://github.com/astaade/pet_project/blob/main/FUNCTIONAL%20PROGRAMMING/game.py)
->>
->>TRELLO
->>[TRELLO](https://github.com/astaade/pet_project/blob/main/FUNCTIONAL%20PROGRAMMING/trello.csv)
+**GAME**
+[GAME](https://github.com/astaade/pet_project/blob/main/FUNCTIONAL%20PROGRAMMING/game.py)
+
+**TRELLO**
+[TRELLO](https://github.com/astaade/pet_project/blob/main/FUNCTIONAL%20PROGRAMMING/trello.csv)
 
 
 
