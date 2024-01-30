@@ -44,18 +44,18 @@ The quiz game randomly asks five questions about various topics, providing feedb
 
 **Analysis**
 
- >>A)ANALYSIS CHECKLIST[LIST](https://github.com/astaade/pet_project/blob/main/ANALYSIS/ANALYSIS%20CHECKLIST.pdf)
+** >>A)ANALYSIS CHECKLIST[LIST](https://github.com/astaade/pet_project/blob/main/ANALYSIS/ANALYSIS%20CHECKLIST.pdf)
 
 > >B)ANALYSIS EXPLANATION[EXP](https://github.com/astaade/pet_project/blob/main/ANALYSIS/ANALYSIS%20pdf.pdf)
-
+**
 **DDD-Domain Driven Design**
 
 To expand the breadth of the game for domain modeling, this project  invented some additional capabilities:
--Multiplayer Mode
+**-Multiplayer Mode
 -Platform High Score Tracking
 -Power-Ups and Bonuses
 -Multiple Difficulty Settings
--Visual Representations And Animations
+-Visual Representations And Animations**
  + [Domain Mapping](https://github.com/astaade/pet_project/blob/main/DOMAIN%20DRIVEN%20DESIGN/DOMAIN%20MAPPING.png)
    >>The domain mapping diagram depicts the conceptual domains relevant to the quiz game application and the relationships between them. It was created in this project using the draw.io tool to visualize and expand upon the core gameplay functionality during the analysis phase.
    
@@ -65,11 +65,12 @@ To expand the breadth of the game for domain modeling, this project  invented s
 **Metrics**
 
 To track code quality, this project integrated Sonarcloud which provides a detailed quality report including metrics like:
-- Unit test coverage
+**- Unit test coverage
 -ode duplication
 -Technical debt
 -Coding standards
--Potential bugs
+-Potential bugs**
+
 >>[SONAR CLOUD METRICS.png](https://github.com/astaade/pet_project/blob/main/metrics/SONAR%20CLOUD%20METRICS.png)
 
 
@@ -83,7 +84,7 @@ To track code quality, this project integrated Sonarcloud which provides a detai
 
 **Build Management**
 
- >>To automate build processes, below are the configurations that are needed to be considered, 
+** >>To automate build processes, below are the configurations that are needed to be considered, 
   
   >>Installs Dependencies
 
@@ -92,7 +93,7 @@ To track code quality, this project integrated Sonarcloud which provides a detai
   >>Builds Documentation
 
   >>Deploys To Staging Server
->  
+>  **
 >  >
 >  >![image](https://github.com/astaade/pet_project/assets/149475536/a485a281-4b0a-4a8b-916f-d6e4b1c2d6ce)
 >  >
@@ -105,10 +106,10 @@ Subprocess has been used to build the git ignore file.
 
 --Debugging
 
->>Git Integration
+**>>Git Integration
 >>Interactive Python Console
 >>Unit Test Runner
->>Documentation Support
+>>Documentation Support**
 
 **IDE-Integrated Development Environment**
 
