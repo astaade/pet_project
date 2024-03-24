@@ -40,17 +40,15 @@ After answering all the questions in a topic, users can proceed to the next ques
 
 # *UML DIAGRAMS*
   + i used the draw.io for generating/draw the UML diagrams. My experience while using it is simple and have lots of tools inside the application.
-  + And also i used plant.txt for generating 
->>[Activity UML diagram](https://github.com/sunny-102000/Playground-Booking-System/blob/main/UML/Activity%20uml%20diagram.png)
-+ The activity can be described as an operation of the system.
+  + And also i used plant.txt for generating.
 
->>[Component UML Diagram](https://github.com/sunny-102000/Playground-Booking-System/blob/main/UML/component%20diagram.png)
+>>[Component UML Diagram]()
 + They are used to illustrate the structure of arbitrarily complex systems.
 
->>[Class UML Diagram](https://github.com/sunny-102000/Playground-Booking-System/blob/main/UML/class%20UML%20diagram.png)
+>>[Class UML Diagram]()
 + Describes the structure of a system by showing the system's classes, their attributes, operations, and the relationships among objects.
 
->>[use case UML diagram](https://github.com/sunny-102000/Playground-Booking-System/blob/main/UML/use%20case%20diagram.png)
+>>[use case UML diagram]()
 + It provides a formal mechanism for arrying out a requirement analysis with active participation from domain experts and users who may or may not be software savvy.
 
 
