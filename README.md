@@ -56,7 +56,8 @@ After answering all the questions in a topic, users can proceed to the next ques
    + [Trello standard](https://trello.com/b/vtwYry4O/my-trello-board)
    + [Jira commercial](https://playgroundbooking.atlassian.net/jira/software/projects/OPB/boards/1)
    + [Screenshot trello and jira](https://github.com/sunny-102000/Playground-Booking-System/tree/main/Project%20requirements)
-![Screenshot (26)](https://github.com/sunny-102000/Playground-Booking-System/assets/63388965/53bf16ca-e6ba-46e9-8088-d26aed931cbd)
+![Screenshot (1)](https://github.com/astaade/pet_project/assets/149475536/30bfeffe-271c-4460-946e-3190191c7990)
+
 
 
 
