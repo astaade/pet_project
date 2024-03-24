@@ -19,8 +19,11 @@
 
 
 # *About Project and Branches*
-  *PLAYGROUND BOOKING*
-The Playground Booking, is a software helps to book various kind of playgrounds for corresponding sports to the people or the organizations. I want to build some codes that is user friendly and help or improvize safety and security to the messages that one can send to others as a confirmation.
+  *QUIZ APPLICATION*
+This Python project is a simple quiz application with a graphical user interface (GUI) built using Tkinter. The quiz covers four topics: Computers, Maths, Science, and General Knowledge, each with three questions. 
+The program initializes with a window titled "Quiz App" where users can select a topic from a dropdown menu. Upon selection, a question and its corresponding options are displayed. Users can choose an option by clicking the buttons provided, and upon selection, a message box appears indicating whether the answer is correct or incorrect.
+After answering all the questions in a topic, users can proceed to the next question or, upon completing all questions in a topic, the program displays the total score. Once the quiz is completed, the user can restart the quiz by clicking the "Next" button, and the questions are shuffled for a new round.
+
 >> Method 
 + Im gonna use Python, for developing the codes and GUI-Graphic User Interface in it to look good and user friendly.
 + Using Visual studio as IDE and coressponded compliers.
