@@ -38,10 +38,10 @@ I have done the codе of thе gamе in Python and taking advantage of its simpl�
 
 # **UML DIAGRAMS**
 
-I used the draw.io for generating/draw the UML diagrams.These diagrams helps to concept different aspects of the system before any code.They can also serve as a useful documentation for understanding and maintaining the application.
->  [COMPONENT UML Diagram](https://github.com/astaade/pet_project/blob/main/UML/CLASS%20DIAGRAM.png)
->  [CLASS UML DIAGRAM](https://github.com/astaade/pet_project/blob/main/UML/CLASS%20DIAGRAM.png)
->  [USE CASE UML DIAGRAM](https://github.com/astaade/pet_project/blob/main/UML/USE%20CASE%20DIAGRAM.png)
+I used the draw.io for generating/draw the UML diagrams.These diagrams helps to concept different aspects of the system before any code.They can also serve as a useful documentation for understanding and maintaining the application. 
++ [COMPONENT UML Diagram](https://github.com/astaade/pet_project/blob/main/UML/CLASS%20DIAGRAM.png)
++ [CLASS UML DIAGRAM](https://github.com/astaade/pet_project/blob/main/UML/CLASS%20DIAGRAM.png)
++ [USE CASE UML DIAGRAM](https://github.com/astaade/pet_project/blob/main/UML/USE%20CASE%20DIAGRAM.png)
 
 # **PROJECT REQUIREMENTS**
 The project requiememnt parts are done in here with the help of two tools named Trello and Jira, the screenshots of those works are attached herewith. 
