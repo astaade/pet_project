@@ -45,7 +45,7 @@ After answering all the questions in a topic, users can proceed to the next ques
 >>[Component UML Diagram]()
 + They are used to illustrate the structure of arbitrarily complex systems.
 
->>[Class UML Diagram]()
+>>[Class UML Diagram](https://github.com/astaade/pet_project/blob/main/UML/Class.png)
 + Describes the structure of a system by showing the system's classes, their attributes, operations, and the relationships among objects.
 
 >>[use case UML diagram]()
