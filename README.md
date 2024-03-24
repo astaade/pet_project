@@ -40,7 +40,7 @@ I have done the codе of thе gamе in Python and taking advantage of its simpl�
 
 I used the draw.io for generating/draw the UML diagrams.These diagrams helps to concept different aspects of the system before any code.They can also serve as a useful documentation for understanding and maintaining the application. 
 + [COMPONENT UML Diagram](https://github.com/astaade/pet_project/blob/main/UML/CLASS%20DIAGRAM.png)
-+ [CLASS UML DIAGRAM](https://github.com/astaade/pet_project/blob/main/UML/CLASS%20DIAGRAM.png)
++ [CLASS UML DIAGRAM](https://github.com/astaade/pet_project/blob/main/UML/Class.png)
 + [USE CASE UML DIAGRAM](https://github.com/astaade/pet_project/blob/main/UML/USE%20CASE%20DIAGRAM.png)
 
 # **PROJECT REQUIREMENTS**
