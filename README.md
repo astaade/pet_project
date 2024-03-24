@@ -12,7 +12,9 @@
 >10. IDE-Integrated Development Environment
 >11. Functional Programming
 
-GIT COMMIT HISTORY
+
+# **GIT COMMIT HISTORY**
+   [commits](https://github.com/astaade/pet_project/commits/main/)
 
 # **About the Project and Branches** 
 
