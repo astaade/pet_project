@@ -95,7 +95,7 @@ After answering all the questions in a topic, users can proceed to the next ques
 
 # *CCD-Clean Code Development*
   + A) Why It Is Clean Code
-        [CCD Points pdf](https://github.com/sunny-102000/Playground-Booking-System/blob/main/CCD/CCD.pdf)
+        [CCD Points pdf](https://github.com/astaade/pet_project/blob/main/Clean%20Code%20Development/Clean%20Code%20Development%20(CCD)%20cheat%20sheet.pdf)
     
   + B) Cheat Sheet [Cheat Sheet for CCD](https://github.com/sunny-102000/Playground-Booking-System/blob/main/CCD/CCD%20Cheat%20Sheet.pdf)
 
