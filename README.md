@@ -109,7 +109,7 @@ After answering all the questions in a topic, users can proceed to the next ques
 # *Unit Tests*
 
 
-Done with two unit tests and runs sucessfully using classes [click here](https://github.com/sunny-102000/Playground-Booking-System/tree/main/Unit%20Tests) to see the unit tests. 
+Done with unit tests and runs sucessfully using classes [click here](https://github.com/astaade/pet_project/blob/main/unit%20test/test.py) to see the unit tests. 
 
 
 # *IDE-Integrated Development Environment*
