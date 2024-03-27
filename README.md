@@ -73,7 +73,7 @@ After answering all the questions in a topic, users can proceed to the next ques
 [Visual Event Storming](https://github.com/sunny-102000/Playground-Booking-System/blob/main/DDD/storm%20event.jpg)
 
 >> B] Core Domain Chart
-[core domain chart](https://github.com/sunny-102000/Playground-Booking-System/blob/main/DDD/core%20domain%20chart.jpeg)
+[core domain chart](https://github.com/astaade/pet_project/blob/main/DOMAIN%20DRIVEN%20DESIGN/CORE%20DOMAIN%20CHART.png)
 
 >> c] Relations between the Domains!
 [Relation Between the Domains](https://github.com/sunny-102000/Playground-Booking-System/blob/main/DDD/relation%20between%20domains.jpeg)
