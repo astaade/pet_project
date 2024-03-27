@@ -81,17 +81,16 @@ After answering all the questions in a topic, users can proceed to the next ques
 
 
 # *Metrics*
-[![Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=sunny-102000_SECRET-CODES&metric=ncloc)](https://sonarcloud.io/summary/new_code?id=sunny-102000_SECRET-CODES)
-[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=sunny-102000_SECRET-CODES&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=sunny-102000_SECRET-CODES)
-[![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=sunny-102000_SECRET-CODES&metric=vulnerabilities)](https://sonarcloud.io/summary/new_code?id=sunny-102000_SECRET-CODES)
-[![Bugs](https://sonarcloud.io/api/project_badges/measure?project=sunny-102000_SECRET-CODES&metric=bugs)](https://sonarcloud.io/summary/new_code?id=sunny-102000_SECRET-CODES)
-[![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=sunny-102000_SECRET-CODES&metric=security_rating)](https://sonarcloud.io/summary/new_code?id=sunny-102000_SECRET-CODES)
-[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=sunny-102000_SECRET-CODES&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=sunny-102000_SECRET-CODES)
-[![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=sunny-102000_SECRET-CODES&metric=code_smells)](https://sonarcloud.io/summary/new_code?id=sunny-102000_SECRET-CODES)
-[![Duplicated Lines (%)](https://sonarcloud.io/api/project_badges/measure?project=sunny-102000_SECRET-CODES&metric=duplicated_lines_density)](https://sonarcloud.io/summary/new_code?id=sunny-102000_SECRET-CODES)
-[![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=sunny-102000_SECRET-CODES&metric=reliability_rating)](https://sonarcloud.io/summary/new_code?id=sunny-102000_SECRET-CODES)
-[![Technical Debt](https://sonarcloud.io/api/project_badges/measure?project=sunny-102000_SECRET-CODES&metric=sqale_index)](https://sonarcloud.io/summary/new_code?id=sunny-102000_SECRET-CODES)
-
+[![Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=astaade_pet_project&metric=ncloc)](https://sonarcloud.io/summary/new_code?id=astaade_pet_project)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=astaade_pet_project&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=astaade_pet_project)
+[![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=astaade_pet_project&metric=vulnerabilities)](https://sonarcloud.io/summary/new_code?id=astaade_pet_project)
+[![Bugs](https://sonarcloud.io/api/project_badges/measure?project=astaade_pet_project&metric=bugs)](https://sonarcloud.io/summary/new_code?id=astaade_pet_project)
+[![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=astaade_pet_project&metric=security_rating)](https://sonarcloud.io/summary/new_code?id=astaade_pet_project)
+[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=astaade_pet_project&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=astaade_pet_project)
+[![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=astaade_pet_project&metric=code_smells)](https://sonarcloud.io/summary/new_code?id=astaade_pet_project)
+[![Duplicated Lines (%)](https://sonarcloud.io/api/project_badges/measure?project=astaade_pet_project&metric=duplicated_lines_density)](https://sonarcloud.io/summary/new_code?id=astaade_pet_project)
+[![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=astaade_pet_project&metric=reliability_rating)](https://sonarcloud.io/summary/new_code?id=astaade_pet_project)
+[![Technical Debt](https://sonarcloud.io/api/project_badges/measure?project=astaade_pet_project&metric=sqale_index)](https://sonarcloud.io/summary/new_code?id=astaade_pet_project)
 
 # *CCD-Clean Code Development*
   + A) Why It Is Clean Code
