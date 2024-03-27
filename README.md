@@ -64,7 +64,7 @@ After answering all the questions in a topic, users can proceed to the next ques
 
 # *Analysis*
   + A) [Analysis Checklist](https://github.com/astaade/pet_project/blob/main/analaysis/analysis%20checklist1.pdf)
-  + B) [Analysis Explanation](https://github.com/sunny-102000/Playground-Booking-System/blob/main/Analysis/Analysis.pdf)
+  + B) [Analysis Explanation](https://github.com/astaade/pet_project/blob/main/analaysis/Analysis%20explanation.pdf)
 
 # *DDD-Domain Driven Design*
  I used lucid spark for drawing the DDD content it was quit helpful and easy to generate/draw. [click here](https://lucid.app/lucidspark/e011e027-ff44-4045-8276-65f4a47ae37e/edit?invitationId=inv_7eb87a6e-b611-4c50-9632-16a72d476e28&page=0_0#)
