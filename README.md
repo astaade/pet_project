@@ -76,7 +76,7 @@ After answering all the questions in a topic, users can proceed to the next ques
 [core domain chart](https://github.com/astaade/pet_project/blob/main/DOMAIN%20DRIVEN%20DESIGN/CORE%20DOMAIN%20CHART.png)
 
 >> c] Relations between the Domains!
-[Relation Between the Domains](https://github.com/sunny-102000/Playground-Booking-System/blob/main/DDD/relation%20between%20domains.jpeg)
+[Relation Between the Domains](https://github.com/astaade/pet_project/blob/main/DOMAIN%20DRIVEN%20DESIGN/Domain%20Relation%20Chart.png)
 
 
 
