@@ -100,10 +100,9 @@ After answering all the questions in a topic, users can proceed to the next ques
 
 # *Build Management*
 
-+ I used Py builder also for the build management to run it sucessfully. And merege my files with pybuilder i attached the screenshots in the gitflows[click here]()
++ I used Py builder also for the build management to run it sucessfully. And merege my files with pybuilder.
 
-
-  + [Github Actions]()
+  + [Github Actions](https://github.com/astaade/pet_project/tree/main/.github/workflows)
 
 # *Unit Tests*
 
