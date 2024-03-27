@@ -70,7 +70,7 @@ After answering all the questions in a topic, users can proceed to the next ques
  I used lucid spark for drawing the DDD content it was quit helpful and easy to generate/draw. [click here](https://lucid.app/lucidspark/e011e027-ff44-4045-8276-65f4a47ae37e/edit?invitationId=inv_7eb87a6e-b611-4c50-9632-16a72d476e28&page=0_0#)
  
 >> A] visual Event Storming
-[Visual Event Storming](https://github.com/sunny-102000/Playground-Booking-System/blob/main/DDD/storm%20event.jpg)
+[Visual Event Storming](https://github.com/astaade/pet_project/blob/main/DOMAIN%20DRIVEN%20DESIGN/VISUAL%20EVENT%20STORMING%20(1).pdf)
 
 >> B] Core Domain Chart
 [core domain chart](https://github.com/astaade/pet_project/blob/main/DOMAIN%20DRIVEN%20DESIGN/CORE%20DOMAIN%20CHART.png)
