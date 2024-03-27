@@ -100,11 +100,10 @@ After answering all the questions in a topic, users can proceed to the next ques
 
 # *Build Management*
 
-+ I used Py builder also for the build management to run it sucessfully. And merege my files with pybuilder i attached the screenshots in the gitflows[click here](https://github.com/sunny-102000/Playground-Booking-System/tree/main/.github/workflows)
++ I used Py builder also for the build management to run it sucessfully. And merege my files with pybuilder i attached the screenshots in the gitflows[click here]()
 
-+ ![Screenshot (42)](https://github.com/sunny-102000/Playground-Booking-System/assets/63388965/1960a9e8-beb0-4baf-9737-e3b0d529cf19)
-+ 
-  + [Github Actions](https://github.com/sunny-102000/Playground-Booking-System/tree/main/.github/workflows)
+
+  + [Github Actions]()
 
 # *Unit Tests*
 
