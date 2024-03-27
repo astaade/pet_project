@@ -48,7 +48,7 @@ After answering all the questions in a topic, users can proceed to the next ques
 >>[Class UML Diagram](https://github.com/astaade/pet_project/blob/main/UML/Class.png)
 + Describes the structure of a system by showing the system's classes, their attributes, operations, and the relationships among objects.
 
->>[use case UML diagram](https://github.com/astaade/pet_project/blob/main/UML/uml%20use%20case.jpg)
+>>[use case UML diagram](https://github.com/astaade/pet_project/blob/main/UML/use%20case%20diagram.pdf)
 + It provides a formal mechanism for arrying out a requirement analysis with active participation from domain experts and users who may or may not be software savvy.
 
 
