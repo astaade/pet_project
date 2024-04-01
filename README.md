@@ -21,7 +21,7 @@
 # *About Project and Branches*
   *QUIZ APPLICATION*
   
-This Python project is a simple quiz application with a graphical user interface (GUI) built using Tkinter. The quiz covers four topics: Computers, Maths, Science, and General Knowledge, each with three questions. 
+This Python project is a simple quiz application with a graphical user interface (GUI) built using Tkinter. The quiz covers topics relating mathematics,cyber,Bigdata,Simple coding and some riddles.
 
 The program initializes with a window titled "Quiz App" where users can select a topic from a dropdown menu. Upon selection, a question and its corresponding options are displayed. Users can choose an option by clicking the buttons provided, and upon selection, a message box appears indicating whether the answer is correct or incorrect.
 
