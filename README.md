@@ -55,7 +55,7 @@ After answering all the questions in a topic, users can proceed to the next ques
 # *PROJECT REQUIREMENTS*
    + [Trello standard](https://trello.com/b/vtwYry4O/my-trello-board)
    + [Jira commercial](https://playgroundbooking.atlassian.net/jira/software/projects/OPB/boards/1)
-   + [Screenshot trello and jira]()
+   + [Screenshot trello and jira](https://github.com/astaade/pet_project/blob/main/PROJECT%20REQUIREMENTS/Screenshot%20(1).png)
 ![Screenshot (1)](https://github.com/astaade/pet_project/assets/149475536/30bfeffe-271c-4460-946e-3190191c7990)
 
 
