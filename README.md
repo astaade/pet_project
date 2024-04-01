@@ -132,7 +132,7 @@ Done with unit tests and runs sucessfully using classes [click here](https://git
   + [side-effect-free functions](https://github.com/astaade/pet_project/blob/cab6ecda8a59b5a823c922019eba216cb7fc4e18/funtional%20programming/funtional.py#L16-L21)
   + [the use of higher-order functions](https://github.com/astaade/pet_project/blob/cab6ecda8a59b5a823c922019eba216cb7fc4e18/funtional%20programming/funtional.py#L16-L21)
   + [functions as parameters and return values](https://github.com/astaade/pet_project/blob/6c68c491f289858478177278eaa5143dea6f22ee/funtional%20programming/funtional.py#L1-L72)
-  + use closures / anonymous functions
+    
  
 
 # *GIT COMMIT HISTORY*
